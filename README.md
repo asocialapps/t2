@@ -1,5 +1,5 @@
 Application "asocial":
-- distribution: t1
+- distribution: t2
 - build: v2.6.1
 - url: https://asocialapps.github.io/t1
 - patchs: _aucun_
