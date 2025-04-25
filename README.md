@@ -1,10 +1,10 @@
 Application "asocial":
-- distribution: t2
-- build: v2.7.1
-- url: https://asocialapps.github.io/t2
+- distribution: t1
+- build: v2.6.1
+- url: https://asocialapps.github.io/t1
 - patchs: _aucun_
 
 Sources:
-- dépôt: https://github.com/dsportes/asocial-app/tree/v2.7
+- dépôt: https://github.com/dsportes/asocial-app/tree/v2.6
 
-Changement du mode de build (vite).
+Correction de la gestion des bases locales.
