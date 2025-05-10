@@ -1,0 +1,1 @@
+import{d as o,u as e}from"./index-nKUEwB_o.js";const s=o(async({app:l})=>{console.log("appconfig");const a=e();a.resetLocaleOptions([{value:"en-EN",label:"English",flag:"🇬🇧"},{value:"fr-FR",label:"Français",flag:"🇫🇷"}]),a.dataSt.setCpt(3)});export{s as default};
