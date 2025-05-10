@@ -1,6 +1,6 @@
-Application "asocial-2":
+Application "asocial-2": Appel de GCF
 - distribution: t2
-- build: v1.0.1
+- build: v1.8.1
 - url: https://asocialapps.github.io/t2
 - patchs: _aucun_
 
